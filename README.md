@@ -2,14 +2,14 @@
 
 Dette er koden til copy cat oppgaven i mitt TailwindCSS kurs.
 
-## Innhold
+# Teknologi
 
-- [copycat](copycat/): Hovedmappen for prosjektet, inneholder all kildekoden og konfigurasjonsfiler.
-- [index.html](index.html): Enkel HTML-fil for testing av TailwindCSS.
+Next JS, TailwindCSS og Typescript.
+
 
 ## Installasjon
 
-For å installere prosjektet, kjør følgende kommando:
+For å installere prosjektet, kan du kjør følgende kommando:
 
 ```sh
-npm install
+git clone https://github.com/KrisHagness/TailwindCopyCat.git
