@@ -11,7 +11,7 @@ export default function Home() {
 
       <div className="Content flex flex-col-reverse sm:flex-row justify-center item-center mt-[1.5rem] sm:mt-[6rem] px-4 ">
 
-          <div className="flex flex-col items-center rounded-xl border-2 border-sky-700/50 p-4 mx-4 text-center bg-gradient-to-r from-gray-900 to-slate-900">
+          <div className=" text-gray-50 flex flex-col items-center rounded-xl border-2 border-sky-700/50 p-4 mx-4 text-center bg-gradient-to-r from-gray-900 to-slate-900">
             <h2 className="hidden sm:flex text-xl sm:text-2xl px-4 py-2 space-x-1 mt-[52px] ">
               <span>Et </span> 
               <span className="font-bold text-sky-500">bedre </span> 
